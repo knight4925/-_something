@@ -1,0 +1,1 @@
+document.write("<h1>此为外部js</h1>")
